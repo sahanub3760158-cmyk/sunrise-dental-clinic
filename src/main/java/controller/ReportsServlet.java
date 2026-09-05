@@ -1,3 +1,7 @@
+// Reports module: aggregates key clinic metrics (patients, appointments,
+// billing) to support management decision-making, as required by
+// Task B section 3.6 of the assessment brief.
+
 package controller;
 
 import java.io.IOException;
